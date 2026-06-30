@@ -1,0 +1,14 @@
+-- 1) what is the total number of Movies and TV Shows on netflix?
+-- 2) Which Country has produced the most content(Movies + TV SHows) on netflix? And List the Top 5 Countries.
+-- 3) list all Movies and TV Shows released in the year 2020.
+-- 4) What are all the Movies directed by 'kristen Johnson'?
+-- 5) Which Content Rating is most common on netflix?
+-- 6) Find list of all TV Shows that have 5 or more seasons
+-- 7) List all the movies produces in india that belong to the 'comedies' category
+-- 8) How many movies were released each yaer? Sort the results in Descending order of the release year
+-- 9) Who are the Top 5 Directors with the highest no of directed movies(Excluding not given)?
+-- 10) What are the 5 oldest movies released in india on netflix ?
+-- 11) Find all the titles of all movies list as Documentaries that were released after the year 2015.
+-- 12) Which movie has the longest duration in minutes on netflix?
+-- 13) Identify the release years in which more than 50 movies from India were released.
+-- 14) Which is the most recently released movie for each country?
